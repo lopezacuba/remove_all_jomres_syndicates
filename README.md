@@ -4,3 +4,5 @@ This Plugin will remove ALL Jomres Syndicates Crap! After installing thru Jomres
 If the Jomres App is down and you don't have a Jomres License you will not be able to Edit or Add any properties. 
 
 Also, If the Jomres App is down and you don't have a Jomres License and want to edit or add property you will get a cURL error!
+
+How to remove ALL Jomres Syndicates?

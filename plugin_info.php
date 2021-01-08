@@ -1,9 +1,9 @@
 <?php
 /**
  *
- * @version Jomres 9.10.x
+ * @version Jomres 9.23.x
  *
- * @copyright	2018 Mark the Shark
+ * @copyright	2021 Mark the Shark
  * Jomres (tm) PHP, CSS & Javascript files are released under both MIT and GPL2 licenses. This means that you can choose the license that best suits your project, and use it accordingly
  *
  **/

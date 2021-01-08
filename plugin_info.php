@@ -23,7 +23,7 @@ class plugin_info_remove_all_jomres_syndicates
 			"version"=>"1.00",
 			"description"=> "This Plugin will remove ALL Jomres Syndicates crap. To use this plugin. Go to Tools -> Remove Syndicates. If the Jomres App is down and you don't have a license you will not be able to edit your properties.",
 			"lastupdate"=>"01/07/2021",
-			"min_jomres_ver"=>"9.10.0",
+			"min_jomres_ver"=>"9.23.0",
 			'third_party_plugin_latest_available_version' => "http://www.fixmycomputermark.com/jomrespluginsinfo/remove_all_jomres_syndicates.json",
 			"manual_link"=>'',
 			'change_log'=>'None.',

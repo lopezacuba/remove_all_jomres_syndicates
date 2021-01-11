@@ -98,6 +98,11 @@ if ($query = " "){ echo jr_gettext("REMOVED_TABLES_DONE_03","REMOVED_TABLES_DONE
 			echo jr_gettext("REMOVED_FILES_DONE_10","REMOVED_FILES_DONE_10",false);
 		}
 		
+		if (file_exists(JOMRES_APP_ABSPATH.'j00061a_poweredby.class.php')) {
+			unlink(JOMRES_APP_ABSPATH.'j00061a_poweredby.class.php');
+			echo jr_gettext("REMOVED_FILES_DONE_13","REMOVED_FILES_DONE_13",false);
+		}
+		
 		if (file_exists(JOMRES_CLASSES_ABSPATH.'jomres_syndicate_guests.class.php')) {
 			unlink(JOMRES_CLASSES_ABSPATH.'jomres_syndicate_guests.class.php');
 			echo jr_gettext("REMOVED_FILES_DONE_11","REMOVED_FILES_DONE_11",false);

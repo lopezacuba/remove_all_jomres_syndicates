@@ -21,7 +21,7 @@ jr_define('REMOVED_FILES_DONE_09', "File has been removed: j06000cron_syndicatio
 jr_define('REMOVED_FILES_DONE_10', "File has been removed: j06000show_syndicated_properties.class.php<br>");
 jr_define('REMOVED_FILES_DONE_11', "File has been removed: jomres_syndicate_guests.class.php<br>");
 jr_define('REMOVED_FILES_DONE_12', "File has been removed: jomres_syndicate_properties.class.php<br>");
-
+jr_define('REMOVED_FILES_DONE_13', "File has been removed: j00061a_poweredby.class.php<br>");
 
 jr_define('REMOVED_TABLES_DONE_01', "Table has been removed: __jomres_syndication_distances<br>");
 jr_define('REMOVED_TABLES_DONE_02', "Table has been removed: __jomres_syndication_domains<br>");
